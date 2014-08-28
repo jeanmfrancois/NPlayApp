@@ -5,6 +5,7 @@ import static playn.core.PlayN.*;
 import playn.core.Game;
 import playn.core.Image;
 import playn.core.ImageLayer;
+import javax.swing.JOptionPane;
 
 public class GameOnZankie extends Game.Default {
 
