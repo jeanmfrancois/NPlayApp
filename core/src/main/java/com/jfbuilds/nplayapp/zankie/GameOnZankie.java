@@ -1,11 +1,11 @@
-package com.jfbuilds.nplayapp.zankie.core;
-
-import static playn.core.PlayN.*;
+package com.jfbuilds.nplayapp.zankie;
 
 import playn.core.Game;
 import playn.core.Image;
 import playn.core.ImageLayer;
-import javax.swing.JOptionPane;
+
+import static playn.core.PlayN.assets;
+import static playn.core.PlayN.graphics;
 
 public class GameOnZankie extends Game.Default {
 

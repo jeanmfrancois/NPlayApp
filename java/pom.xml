@@ -14,7 +14,7 @@
   <name>GameOnZankie Java</name>
 
   <properties>
-    <mainClass>com.jfbuilds.nplayapp.zankie.java.GameOnZankieJava</mainClass>
+    <mainClass>com.jfbuilds.nplayapp.zankie.GameOnZankieJava</mainClass>
   </properties>
 
   <dependencies>
